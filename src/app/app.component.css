@@ -1,9 +1,9 @@
-.reward-form {
-  min-width: 150px;
-  max-width: 500px;
-  width: 100%;
+.container {
+    text-align: center;
+    padding: 50px;
+    width: 600px;
 }
 
-.full-width {
-  width: 100%;
+.form-input {
+    display: inline;
 }
